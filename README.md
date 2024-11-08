@@ -1,5 +1,10 @@
 # aplikasi_kost
 
+Nama  : Pramuditya Ganis Saputra
+NIM   : 32602200116
+kelas : Reguler
+Aplikasi : BapakKost
+
 A new Flutter project.
 
 LINK DRIBBLE : https://dribbble.com/shots/13449610-Boarding-Search-Design-Application-Pencari-Kost
