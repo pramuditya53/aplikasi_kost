@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
+LINK DRIBBLE : https://dribbble.com/shots/13449610-Boarding-Search-Design-Application-Pencari-Kost
+
+[DEMO APLIKASI BAPAKKOST]https://github.com/user-attachments/assets/eba4cfb3-c806-4ebd-a2c9-c71b3219018f
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
